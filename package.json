@@ -1,0 +1,9 @@
+{
+  "name": "sistema-custo-alagoinhas",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'site pronto'",
+    "deploy": "echo 'deploy ok'"
+  }
+}
